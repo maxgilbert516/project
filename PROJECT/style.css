@@ -1,0 +1,181 @@
+body{
+    background-color: gainsboro;
+}
+.name{
+    background-color: rgb(93, 50, 16);
+    color: wheat;
+    width: 125px;
+    margin: -10px;
+    border: 3px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.title{
+    background-color: rgb(93, 50, 16);
+    color: wheat;
+    margin-left: -10px;
+    margin-right: -15px;
+    border: 3px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pic1{
+    width: 100%;
+    height: 100%;
+}
+
+.tic{
+border: solid 3px rgb(93, 50, 16);
+width: 15%;
+height: 265px;
+position: relative;
+top: 60px;
+left: 150px;
+
+}
+.badge1{
+    color: wheat;
+    background-color: rgb(93, 50, 16);
+    position: relative;
+    top: -8px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pic2{
+    width: 100%;
+    height: 100%;
+}
+
+
+.rpg{
+border: solid 3px rgb(93, 50, 16);
+width: 15%;
+height: 265px;
+position: relative;
+top: -220px;
+left: 840px;
+
+}
+.badge2{
+    color: wheat;
+    background-color: rgb(93, 50, 16);
+    position: relative;
+    top: -6px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.pic3{
+    width: 100%;
+    height: 100%;
+}
+
+.quiz{
+    border: solid 3px rgb(93, 50, 16);
+    width: 15%;
+    height: 265px;
+    position: relative;
+    top: -490px;
+    left: 1500px;
+    }
+    .badge3{
+        color: wheat;
+        background-color: rgb(93, 50, 16);
+        position: relative;
+        top: -6px;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+
+    .pic4{
+        width: 100%;
+        height: 100%;
+    }
+    
+    .calc{
+        border: solid 3px rgb(93, 50, 16);
+        width: 15%;
+        height: 265px;
+        position: relative;
+        top: -280px;
+        left: 1500px;
+        }
+        .badge4{
+            color: wheat;
+            background-color: rgb(93, 50, 16);
+            position: relative;
+            top: -6px;
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        .pic5{
+            width: 100%;
+            height: 100%;
+        }
+        
+        .ball{
+            border: solid 3px rgb(93, 50, 16);
+            width: 15%;
+            height: 265px;
+            position: relative;
+            top: -550px;
+            left: 840px;
+            }
+            .badge5{
+                color: wheat;
+                background-color: rgb(93, 50, 16);
+                position: relative;
+                top: -6px;
+                text-align: center;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+
+
+            .pic6{
+                width: 100%;
+                height: 100%;
+            }
+            
+            .rock{
+                border: solid 3px rgb(93, 50, 16);
+                width: 15%;
+                height: 265px;
+                position: relative;
+                top: -820px;
+                left: 150px;
+                }
+                .badge6{
+                    color: wheat;
+                    background-color: rgb(93, 50, 16);
+                    position: relative;
+                    top: -6px;
+                    text-align: center;
+                    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                    
+                }
+    .bottom{
+        background-color: rgb(93, 50, 16);
+        color: wheat;
+        border: solid 4px black;
+        height: 80px;
+       margin: -9px;
+       margin-bottom: -500px;
+       text-align: left;
+       text-align: start;
+       position: relative;
+       
+       
+    }
+    .github{
+        position: relative;
+        left: 250px;
+        top: -60px;
+       color: wheat;
+    }
+    a:visited { 
+        text-decoration: none; 
+        color: wheat; 
+       }
+       
